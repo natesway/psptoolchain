@@ -4,7 +4,6 @@
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pspdev/psptoolchain/CI-Docker?label=CI-Docker&logo=github&style=for-the-badge)](https://github.com/pspdev/psptoolchain/actions?query=workflow%3ACI-Docker)
 
 This program will automatically build and install the whole compiler and other tools used in the creation of homebrew software for the Sony PlayStation Portable® videogame system.
-
 ## **ATENTION!**
 
 If you're trying to install in your machine the **WHOLE PSP Development Environment** this is **NOT** the repo to use, you should use instead the [pspdev](https://github.com/pspdev/pspdev "pspdev") repo.
